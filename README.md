@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 196 | 21 |
+| 197 | 21 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (2)
 - [binary search](#binary-search) (5)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (33)
+- [brute force](#brute-force) (34)
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (23)
 - [data structures](#data-structures) (2)
@@ -30,9 +30,9 @@
 - [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [schedules](#schedules) (2)
-- [sortings](#sortings) (23)
+- [sortings](#sortings) (24)
 - [strings](#strings) (28)
-- [two pointers](#two-pointers) (4)
+- [two pointers](#two-pointers) (5)
 
 ---
 
@@ -81,6 +81,7 @@
 | 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
+| 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
@@ -463,6 +464,7 @@
 | 1697B | [Promo](https://codeforces.com/contest/1697/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1697/B%20-%20Promo/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
+| 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
@@ -518,6 +520,7 @@
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 1832B | [Maximum Sum](https://codeforces.com/contest/1832/problem/B) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1832/B%20-%20Maximum%20Sum/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Ctrl-Dev7/CodeForces-Solutions/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 
 ---
